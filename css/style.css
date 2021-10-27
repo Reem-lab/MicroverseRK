@@ -33,8 +33,9 @@ header img {
 		max-width: 100%;
 		min-width: 100%;
 	}
-	
+	.links ul li a {color: red;}
 }
+
 
 
 #form {
